@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejashri-del098/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Array
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
