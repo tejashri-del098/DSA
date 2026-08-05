@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejashri-del098/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -43,9 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
