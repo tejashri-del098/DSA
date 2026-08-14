@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejashri-del098/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
