@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tejashri-del098/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
