@@ -16,3 +16,4 @@ public:
         nums= ans ;
     }
 };
+//The key lesson: whenever k represents rotations of an array of size n, use:
