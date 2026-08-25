@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tejashri-del098/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tejashri-del098/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tejashri-del098/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
+| [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
