@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejashri-del098/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/tejashri-del098/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tejashri-del098/DSA/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tejashri-del098/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejashri-del098/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejashri-del098/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/tejashri-del098/DSA/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/tejashri-del098/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejashri-del098/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
@@ -220,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tejashri-del098/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
