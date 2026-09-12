@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejashri-del098/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
