@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/tejashri-del098/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -254,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/tejashri-del098/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
