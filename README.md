@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/tejashri-del098/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/tejashri-del098/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tejashri-del098/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
@@ -256,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/tejashri-del098/DSA/tree/master/0046-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
