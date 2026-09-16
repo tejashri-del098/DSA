@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejashri-del098/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/tejashri-del098/DSA/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/tejashri-del098/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/tejashri-del098/DSA/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0392-is-subsequence](https://github.com/tejashri-del098/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/tejashri-del098/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejashri-del098/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejashri-del098/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/tejashri-del098/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
