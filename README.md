@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/tejashri-del098/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejashri-del098/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/tejashri-del098/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/tejashri-del098/DSA/tree/master/0162-find-peak-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/tejashri-del098/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/tejashri-del098/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/tejashri-del098/DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tejashri-del098/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/tejashri-del098/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/tejashri-del098/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
