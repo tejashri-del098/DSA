@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tejashri-del098/DSA/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/tejashri-del098/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tejashri-del098/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejashri-del098/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/tejashri-del098/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/tejashri-del098/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/tejashri-del098/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/tejashri-del098/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
