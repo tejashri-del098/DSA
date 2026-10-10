@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejashri-del098/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/tejashri-del098/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tejashri-del098/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/tejashri-del098/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 ## Array
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejashri-del098/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tejashri-del098/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tejashri-del098/DSA/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/tejashri-del098/DSA/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/tejashri-del098/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
