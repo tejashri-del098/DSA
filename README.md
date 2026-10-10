@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tejashri-del098/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tejashri-del098/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tejashri-del098/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tejashri-del098/DSA/tree/master/0015-3sum) |
 | [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejashri-del098/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tejashri-del098/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/tejashri-del098/DSA/tree/master/1927-sum-game) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejashri-del098/DSA/tree/master/0053-maximum-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
