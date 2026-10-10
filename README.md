@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tejashri-del098/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/tejashri-del098/DSA/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/tejashri-del098/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/tejashri-del098/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tejashri-del098/DSA/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejashri-del098/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/tejashri-del098/DSA/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/tejashri-del098/DSA/tree/master/0867-transpose-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tejashri-del098/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejashri-del098/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/tejashri-del098/DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/tejashri-del098/DSA/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/tejashri-del098/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
