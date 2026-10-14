@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tejashri-del098/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tejashri-del098/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/tejashri-del098/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/tejashri-del098/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejashri-del098/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/tejashri-del098/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejashri-del098/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejashri-del098/DSA/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/tejashri-del098/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/tejashri-del098/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejashri-del098/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tejashri-del098/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
