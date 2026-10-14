@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tejashri-del098/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/tejashri-del098/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/tejashri-del098/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/tejashri-del098/DSA/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tejashri-del098/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
