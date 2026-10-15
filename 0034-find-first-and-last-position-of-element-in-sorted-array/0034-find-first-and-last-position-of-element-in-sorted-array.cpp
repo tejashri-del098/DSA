@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int first = -1;
@@ -6,7 +6,7 @@ public:
         int n = nums.size();
         int left = 0;
         int right = n-1;
-        while(left < right){
+        while(left <= right){
             int mid = left+(right-left)/2;
             if(nums[mid]==target){
                 first = mid;
@@ -19,7 +19,7 @@ public:
         }
         left = 0;
         right = n-1;
-        while(left < right){
+        while(left <= right){
             int mid = left +(right-left)/2;
             if(nums[mid]== target){
                 last = mid;
@@ -32,9 +32,9 @@ public:
         }
         return {first,last};
     }
-};*/
+};
 
-class Solution {
+/*class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int first = -1, last = -1;
@@ -77,5 +77,5 @@ public:
 
         return {first, last};
     }
-};
+};*/
 
