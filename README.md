@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/tejashri-del098/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tejashri-del098/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tejashri-del098/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tejashri-del098/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/tejashri-del098/DSA/tree/master/3467-transform-array-by-parity) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/tejashri-del098/DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tejashri-del098/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tejashri-del098/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tejashri-del098/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tejashri-del098/DSA/tree/master/3731-find-missing-elements) |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tejashri-del098/DSA/tree/master/0069-sqrtx) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tejashri-del098/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tejashri-del098/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
