@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tejashri-del098/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/tejashri-del098/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/tejashri-del098/DSA/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/tejashri-del098/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/tejashri-del098/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tejashri-del098/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejashri-del098/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tejashri-del098/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tejashri-del098/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/tejashri-del098/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
