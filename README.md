@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tejashri-del098/DSA/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/tejashri-del098/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejashri-del098/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/tejashri-del098/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejashri-del098/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/tejashri-del098/DSA/tree/master/2418-sort-the-people) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tejashri-del098/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tejashri-del098/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejashri-del098/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejashri-del098/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/tejashri-del098/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
