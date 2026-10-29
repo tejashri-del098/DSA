@@ -7,12 +7,12 @@ class Solution{
 
         int top = 0;
         int bottom = n-1;
+
         int left = 0;
         int right = m-1;
-
-        while(left <= right && top <= bottom){
-            // left to right
-            for(int i = left ; i <= right; i++){
+        
+        while(top <= bottom && left <= right){
+            for(int i = left; i <= right; i++){
                 ans.push_back(matrix[top][i]);
             }
             top++;
@@ -25,16 +25,14 @@ class Solution{
                     ans.push_back(matrix[bottom][i]);
                 }
                 bottom--;
-
-            }
-            if(left <= right){
-                for(int i = bottom; i >= top; i--){
-                    ans.push_back(matrix[i][left]);
+                if(left <= right){
+                    for(int i= bottom; i>= top; i--){
+                        ans.push_back(matrix[i][left]);
+                    }
+                    left++;
                 }
-                left++;
             }
         }
         return ans;
-
     }
 };
